@@ -1,0 +1,5 @@
+{
+  "name": "session-memo",
+  "owner": { "name": "trubotshow" },
+  "plugins": [{ "name": "session-memo", "source": "./" }]
+}

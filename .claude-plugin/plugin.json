@@ -1,0 +1,5 @@
+{
+  "name": "session-memo",
+  "version": "0.1.0",
+  "description": "A plain memo pane beside the chat, one text shared by all sessions; writing in it uses no tokens"
+}
